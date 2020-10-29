@@ -1,0 +1,10 @@
+body, th,button, input, select, textarea {
+    text-align: right !important;
+}
+.sidebar .has-scrollbar  i {
+    float: left;
+}
+.dropdown-profile li a i {
+    float: right;
+    margin-left: 5px;
+}
